@@ -1,0 +1,1 @@
+default['homebrew']['packages'] = []
